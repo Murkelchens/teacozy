@@ -75,3 +75,24 @@ h2 h4{
 div{
   display: block;
 }
+#featuredtea{
+  width: 1000px;
+  height: 700px;
+  margin: auto;
+  padding-top: 70px;
+  display: block;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+
+}
+.item{
+  padding-bottom: 10px;
+}
+.item img{
+  height: 200px;
+  width: 300px;
+  display: block;
+  margin: 10px;
+}
